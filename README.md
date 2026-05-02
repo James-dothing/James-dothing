@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/James-dothing/James-dothing/master/banner.png "Header")](https://guns.lol/james_dothing)
 # Hello
-[28 December 2025] If you somehow come across my GitHub profile, either you’ve spent too much time on GitHub,came across via my bio, or I’ve made a very decent repository.<br>
+[28 December 2025] If you somehow come across my GitHub profile, either you’ve spent too much time on GitHub, came across via my bio, or I’ve made a very decent repository.<br>
 Well uhm. Here my github profile, I guess.
 
 # Hello (fr this time)
